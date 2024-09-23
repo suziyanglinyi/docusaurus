@@ -71,6 +71,13 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      // giscus options
+      giscus: {
+        repo: 'your_org/your-blog', // edit this
+        repoId: 'your_repo_id', // edit this
+        category: 'Announcements',
+        categoryId: 'your_category_id', // edit this
+      },	    
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
