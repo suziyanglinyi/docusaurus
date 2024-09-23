@@ -73,10 +73,10 @@ const config = {
     ({
       // giscus options
       giscus: {
-        repo: 'your_org/your-blog', // edit this
-        repoId: 'your_repo_id', // edit this
+        repo: 'suziyanglinyi/docusaurus', // edit this
+        repoId: 'R_kgDOM1tB8Q', // edit this
         category: 'Announcements',
-        categoryId: 'your_category_id', // edit this
+        categoryId: 'DIC_kwDOM1tB8c4CitAL', // edit this
       },	    
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
